@@ -1,4 +1,4 @@
- = sql-parser =
+ = sql-parser
 
  sql-parser is parser copy-and-paste from <flex & biosn>
 
