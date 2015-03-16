@@ -1,9 +1,9 @@
 = sql-parser
 
-sql-parser is parser copy-and-paste from <flex & biosn>
+sql-parser is parser substantially copy-and-paste from the book <flex & biosn>
 
  - generates Reverse Polish Notation (RPN) of SQL statements
- - integrates with GO's yacc and nex instead of YACC/BISON
+ - integrates with GO's yacc and nex instead of Flex & BISON
 
 I wrote this code to get acquainted with GO and SQL for further develop purpose. This is a subset of SQL. The ultimate definitions for SQL are the standards documents published by ANSI and
 ISO including ISO/IEC 9075-2:2003, which defines SQL, and a variety of related documents
