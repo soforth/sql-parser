@@ -1,6 +1,6 @@
- = sql-parser
+= sql-parser
 
- sql-parser is parser copy-and-paste from <flex & biosn>
+sql-parser is parser copy-and-paste from <flex & biosn>
 
  - generates Reverse Polish Notation (RPN) of SQL statements
  - integrates with GO's yacc and nex instead of YACC/BISON
