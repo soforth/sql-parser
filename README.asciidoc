@@ -14,12 +14,14 @@ that define the way to embed SQL in other programming languages and in XML.
 Get nex tool:
 
   $go get github.com/blynn/nex
-  $build
+  $cd github.com/blynn/nex
+  $go build
+  $ln -s nex /usr/bin/nex
 
 Get sql-parser 
 
-  $export GOPATH=/tmp/go
   $go get github.com/soforth/sql-parser
+  $cd github.com/soforth/sql-parser
 
 Run:
 
